@@ -361,7 +361,7 @@ Config.Locations = {
         },
         zones = {
             { coords = vector3(450.09, -975.92, 25.7), length = 9.0, width = 4.0, heading = 90.0, minZ = 24.5, maxZ = 28.5 },
-            { coords = vector3(435.53, -975.97, 25.7), length = 9.0, width = 4.0, heading = 90.0, minZ = 24.5, maxZ = 28.5 },
+            { coords = vector3(1815.14, 3687.64, 33.62), length = 9.0, width = 4.0, heading = 90.0, minZ = 33.42, maxZ = 34.10 },     --sheriff
         }
     },
 
