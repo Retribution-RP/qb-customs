@@ -175,7 +175,7 @@ Config.Locations = {
         }
     },
 
-    ['Harmony'] = {
+--[[     ['Harmony'] = {
         settings = {
             label = 'Harmony Motorworks',
             welcomeLabel = "Welcome to Harmony Motorworks!",
@@ -215,7 +215,7 @@ Config.Locations = {
         }
     },
 
-    ['Hayes'] = {
+ ]]    ['Hayes'] = {
         settings = {
             label = 'Hayes Motorworks',
             welcomeLabel = "Welcome to Hayes Motorworks!",
